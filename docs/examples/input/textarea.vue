@@ -5,6 +5,7 @@
     :rows="2"
     type="textarea"
     placeholder="Please input"
+    clearable
   />
 </template>
 
